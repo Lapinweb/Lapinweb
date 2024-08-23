@@ -31,6 +31,8 @@ Tailwind CSS
 ### Back End
 Node.js/Express
 
+SQL | MySql
+
 Django
 
 ### Full Stack
