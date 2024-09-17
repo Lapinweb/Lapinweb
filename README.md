@@ -35,6 +35,8 @@ SQL | MySql
 
 Django
 
+Go
+
 ### Full Stack
 
 Laravel
